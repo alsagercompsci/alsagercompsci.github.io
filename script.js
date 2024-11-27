@@ -28,9 +28,8 @@ function toggle_project_videos(){
         projectVideosDiv.style.display = 'block';
     }
 }
-
-if (/Mobi|Android|Safari/i.test(navigator.userAgent)) {
+//Test function for mobile
+if (/Mobi|Android/i.test(navigator.userAgent)) {
     alert('The site may display differently on mobile, viewing on a PC or laptop is recommended');
-    document.querySelector('meta[name="viewport"]').setAttribute('content', 'width=1024');
 }
 
