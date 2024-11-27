@@ -53,6 +53,11 @@
             <p>Click on any of the images to learn more</p>
         </div>
     </div>
+    <script>
+        if (/Mobi|Android/i.test(navigator.userAgent)) {
+            window.location.href = 'mobileabout.html';
+        }
+    </script>
     <script src="script.js"></script>
 </body>
 </html>
