@@ -28,4 +28,7 @@ function toggle_project_videos(){
         projectVideosDiv.style.display = 'block';
     }
 }
-
+//Test function for mobile
+if (/Mobi|Android/i.test(navigator.userAgent)) {
+    alert('test1');
+}
