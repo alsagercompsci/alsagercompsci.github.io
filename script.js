@@ -28,19 +28,3 @@ function toggle_project_videos(){
         projectVideosDiv.style.display = 'block';
     }
 }
-function hideImagesOnMobile() {
-    if (window.innerWidth <= 768) { // Assuming mobile width is 768px or less
-        let images = document.querySelectorAll('img');
-        images.forEach(function(image) {
-            image.style.display = 'none';
-        });
-    } else {
-        let images = document.querySelectorAll('img');
-        images.forEach(function(image) {
-            image.style.display = 'block';
-        });
-    }
-}
-
-window.addEventListener('resize', hideImagesOnMobile);
-window.addEventListener('load', hideImagesOnMobile);
