@@ -108,6 +108,7 @@ ul, ol, li {
     width: 50vw;
     height: 30vh;
     overflow: collapse;
+    display:block;
 }
 
 #about2 {
@@ -130,6 +131,7 @@ ul, ol, li {
     top: 30vh;
     right: 0;
     position: absolute;
+    display:block;
 }
 
 #about4 {
@@ -155,6 +157,7 @@ ul, ol, li {
     height: 30vh;
     top: 60vh;
     position: absolute;
+    display:block;
 }
 
 #about6 {
