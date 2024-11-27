@@ -33,4 +33,4 @@ if (/Mobi|Android|Safari/i.test(navigator.userAgent)) {
     alert('The site may display differently on mobile, viewing on a PC or laptop is recommended');
     document.querySelector('meta[name="viewport"]').setAttribute('content', 'width=1024');
 }
-}
+
