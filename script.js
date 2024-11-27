@@ -30,5 +30,5 @@ function toggle_project_videos(){
 }
 //Test function for mobile
 if (/Mobi|Android/i.test(navigator.userAgent)) {
-    alert('test1');
+    alert('The site may display differently on mobile, veiwing on a pc or laptop is reccomended');
 }
