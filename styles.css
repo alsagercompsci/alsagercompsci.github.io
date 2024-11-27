@@ -82,7 +82,7 @@ ul, ol, li {
     justify-content: center;
 }
 
-#join h1, #join h2, #join p, #join h4 {
+#join h1, #join h2, #join h3, #join h4, #join p{
     color: white;
     text-align: center;
     margin-top: 20px;
