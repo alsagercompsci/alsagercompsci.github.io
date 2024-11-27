@@ -203,3 +203,6 @@ ul, ol, li {
     left: 50%;
     transform: translate(-50%, -40%);
 }
+#mobileabout {
+    padding: 40px;
+}
