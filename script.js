@@ -28,12 +28,4 @@ function toggle_project_videos(){
         projectVideosDiv.style.display = 'block';
     }
 }
-function hideDivsOnMobile() {
-    if (/Mobi|Android/i.test(navigator.userAgent)) {
-        document.getElementById('about1').style.display = 'none';
-        document.getElementById('about3').style.display = 'none';
-        document.getElementById('about5').style.display = 'none';
-    }
-}
 
-hideDivsOnMobile();
