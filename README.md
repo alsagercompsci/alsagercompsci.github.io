@@ -1,5 +1,6 @@
 # alsagercompsci.github.io
-![Jplsbyu](https://github.com/user-attachments/assets/9964654e-6794-4c0d-9591-97146b64ac52)
+![Shorter cs logo transparent](https://github.com/user-attachments/assets/0e4e765e-6a1c-40a9-91c3-90baa2599a8c)
 
-Website for computing society
+
+Website for Alsager Computing Society
 
