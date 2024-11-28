@@ -206,3 +206,13 @@ ul, ol, li {
 #mobileabout {
     padding: 40px;
 }
+#about_alternative 
+{
+    width: 100vw;
+    height: 95vh;
+    background-color:#333;
+    position: relative;
+    justify-content: center;
+    align-items:center;
+}
+    
