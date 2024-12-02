@@ -202,6 +202,7 @@ ul, ol, li {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -40%);
+    background-color: #444;
 }
 #mobileabout {
     padding: 40px;
