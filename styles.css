@@ -30,7 +30,6 @@ h1, h2, h3, h4, h5, h6 {
     margin: 10px 0;
     color: white;
 }
-
 p {
     line-height: 1.6;
     color: white;
@@ -42,7 +41,10 @@ ul, ol, li {
     color: white;
 }
 em{
-    text-shadow: 0 0 5px #ff6;
+    text-shadow: 0 0 5px #007BFF;
+}
+a{
+    color: whitesmoke;
 }
 
 #navigation_bar {
