@@ -20,14 +20,7 @@ document.querySelector('#about_alternative img[src="images/github.png"]').addEve
 let videolist = ["https://youtu.be/4jQhnXJA7q4", "https://youtu.be/zlqLr4fa7CM"];
 let videosrc = videolist[0];
 
-function toggle_project_videos(){
-    let projectVideosDiv = document.getElementById('projects_videos');
-    if (projectVideosDiv.style.display === 'block') {
-        projectVideosDiv.style.display = 'none';
-    } else {
-        projectVideosDiv.style.display = 'block';
-    }
-}
+
 //Test function for mobile
 if (/Mobi|Android/i.test(navigator.userAgent)) {
     alert('The site may display differently on mobile, viewing on a PC or laptop is recommended');
