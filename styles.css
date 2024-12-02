@@ -221,6 +221,17 @@ ul, ol, li {
     align-items: center;
     text-align: center;
     justify-content: center;
-    font-size: 2em;
 }
-    
+#project p {
+    margin: 0;
+}
+#project a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: #007BFF;
+    display: inline-block;
+    vertical-align: middle;
+}
+#project a:hover {
+    text-decoration: underline;
+}
