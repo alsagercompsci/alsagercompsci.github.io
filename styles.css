@@ -216,4 +216,11 @@ ul, ol, li {
     padding-left: 3vh;
     padding-top: 1vh;
 }
+#project {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 2em;
+}
     
