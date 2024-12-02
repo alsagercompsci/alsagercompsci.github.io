@@ -212,5 +212,6 @@ ul, ol, li {
     height: 95vh;
     background-color:#333;
     position: relative;
+    padding: 5vh;
 }
     
