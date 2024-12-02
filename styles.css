@@ -41,6 +41,9 @@ ul, ol, li {
     padding: 0 20px;
     color: white;
 }
+em{
+    text-shadow: 0 0 5px #ff6;
+}
 
 #navigation_bar {
     background-color: #5a5554;
