@@ -164,7 +164,7 @@ ul, ol, li {
     left: 50vw;
     position: absolute;
 }
-#projects_videos_bar {
+#projects_bar {
     width: 60vw;
     height: 10vh;
     margin: 0 auto;
@@ -176,7 +176,7 @@ ul, ol, li {
     justify-content: center;
     background-color: #444;
 }
-#projects_videos_bar button {
+#projects_bar button {
     background-color: #5a5554;
     color: white;
     border: none;
@@ -188,12 +188,12 @@ ul, ol, li {
     transition: background-color 0.3s, transform 0.3s;
 }
 
-#projects_videos_bar button:hover {
+#projects_bar button:hover {
     background-color: #333;
     transform: translateY(-2px);
 }
 
-#projects_videos {
+#projects {
     display: block;
     width: 60vw;
     height: 60vh;
