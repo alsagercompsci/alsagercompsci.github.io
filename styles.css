@@ -41,10 +41,8 @@ ul, ol, li {
     color: white;
 }
 em{
-    text-shadow: 0 0 5px #007BFF;
-}
-a{
     color: whitesmoke;
+    text-shadow: 0 0 5px #007BFF;
 }
 
 #navigation_bar {
