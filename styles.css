@@ -211,14 +211,16 @@ em{
 }
 
 #about{
-    width:100vw;
-    height: 80vh;
-    background-color:#3333;
-    padding-top:2vh;
-    padding-left:2vw;
-    top:5vh;
-    left:0;
+    width: 100vw;
+    height: 95vh;
+    margin: 0 auto;
     position: absolute;
+    top: 5vh;
+    left: 0;
+    background-color: #333;
+    align-items: left;
+    justify-content: left;
+    padding: 2vh;
 }
 #about img{
     margin-top: 5vh;
