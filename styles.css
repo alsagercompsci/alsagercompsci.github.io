@@ -171,4 +171,6 @@ footer{
     width: 100vw;
     height: 80px;
     background-color:#3333;
+    display:block;
+    top:0;
 }
