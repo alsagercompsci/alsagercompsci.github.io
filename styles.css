@@ -171,10 +171,9 @@ em{
     width: 100vw;
     height: 3vh;
     background-color:#3333;
-    position: relative;
+    position: absolute;
     bottom:0;
     left:0;
-    top:100vh;
     align-items: left;
     text-align: left;
     justify-content: left;
