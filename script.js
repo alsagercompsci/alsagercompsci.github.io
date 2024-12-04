@@ -13,8 +13,5 @@ document.querySelector('#about_alternative img[src="images/cs50p.png"]').addEven
 document.querySelector('#about_alternative img[src="images/highseas.png"]').addEventListener('click', function() {
     window.location.href = 'https://hackclub.com/';
 });
-document.querySelector('#about_alternative img[src="images/github.png"]').addEventListener('click', function() {
-    window.location.href = 'https://guides.github.com/activities/hello-world/';
-});
 
 
