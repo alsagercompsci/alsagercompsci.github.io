@@ -177,6 +177,7 @@ em{
     align-items: left;
     text-align: left;
     justify-content: left;
+    transform: translate(-50%, -95%);
 }
 #footer-logo {
     height: 5vw
