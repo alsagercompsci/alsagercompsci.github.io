@@ -178,3 +178,12 @@ em{
     text-align: left;
     justify-content: left;
 }
+#about2{
+    width:100vw;
+    height:92vh;
+    background-color:white;
+    padding-top:2vh;
+    padding-left:2vw;
+    top:0;
+    left:0;
+}
