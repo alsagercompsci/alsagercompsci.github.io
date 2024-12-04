@@ -17,12 +17,3 @@ document.querySelector('#about_alternative img[src="images/github.png"]').addEve
     window.location.href = 'https://guides.github.com/activities/hello-world/';
 });
 
-let videolist = ["https://youtu.be/4jQhnXJA7q4", "https://youtu.be/zlqLr4fa7CM"];
-let videosrc = videolist[0];
-
-
-//Test function for mobile
-if (/Mobi|Android/i.test(navigator.userAgent)) {
-    alert('The site may display differently on mobile, viewing on a PC or laptop is recommended');
-}
-
