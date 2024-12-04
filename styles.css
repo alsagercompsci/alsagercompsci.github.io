@@ -177,9 +177,10 @@ em{
     align-items: left;
     text-align: left;
     justify-content: left;
+    display:flex;
 }
 #footer-logo {
-    height: 2vh; 
+    height: 6vh
     margin-right: 1vw; 
 }
 #about2{
