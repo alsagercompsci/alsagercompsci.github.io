@@ -170,9 +170,10 @@ em{
 #footer{
     width: 100vw;
     height: 3vh;
-    background-color:#3333;
+    background-color:#0000FF;
     position: absolute;
     bottom:0;
+    left:0;
     align-items: left;
     text-align: left;
     justify-content: left;
