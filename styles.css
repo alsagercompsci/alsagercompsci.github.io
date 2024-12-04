@@ -169,8 +169,8 @@ em{
 }
 #footer{
     width: 100vw;
-    height: 80px;
+    height: 3vh;
     background-color:#3333;
-    display:block;
+    position: absolute;
     bottom:0;
 }
