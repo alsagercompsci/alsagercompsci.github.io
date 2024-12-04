@@ -137,8 +137,6 @@ em{
     left: 50%;
     transform: translate(-50%, -40%);
     background-color: #444;
-    border-radius: 20px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
 }
 #mobileabout {
     padding: 40px;
