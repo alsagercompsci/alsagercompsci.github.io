@@ -228,6 +228,7 @@ em{
     padding-left:2vw;
     top:0;
     left:0;
+    position: relative;
 }
 #about img{
     margin-top: 5vh;
