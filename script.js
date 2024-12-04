@@ -17,10 +17,4 @@ document.querySelector('#about_alternative img[src="images/github.png"]').addEve
     window.location.href = 'https://guides.github.com/activities/hello-world/';
 });
 
-const toggleSwitch = document.getElementById('theme-toggle');
 
-toggle_theme = () => {
-toggleSwitch.addEventListener('change', function() {
-    document.body.classList.toggle('light-mode');
-});
-}
