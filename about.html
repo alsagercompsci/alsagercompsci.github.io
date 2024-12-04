@@ -10,14 +10,22 @@
         <button onclick="window.location.href='contact.html'">Join</button>
         <button onclick="window.location.href='index.html'">Home</button>
         <button onclick="window.location.href='about.html'">About</button>
+    <label class="switch">
+        <input type="checkbox" id="theme-toggle">
+        <span class="slider round"></span>
+    </label>
+    <script>
+        const toggleSwitch = document.getElementById('theme-toggle');
+        toggleSwitch.addEventListener('change', function() {
+            document.body.classList.toggle('light-mode');
+        });
+    </script>
     </div>
    <div id="about2">
             <img src="images/python.png" style="height: 30vh; width: 25vh;">
             <img src="images/javascript.png" style="height: 30vh; width: 30vh;">
             <img src="images/htmlcss.png" style="height: 30vh; width: 30vh;">
-            <div class="light-mode-toggle" id="lightModeToggle">
-                <div class="slider"></div>
-            </div>
+            
             <h1><u>Programming</u></h1>
             <p>In CSOC, we practice programming in many languages, though the most common are:</p>
             <ul>
