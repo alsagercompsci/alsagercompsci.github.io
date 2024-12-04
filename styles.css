@@ -173,4 +173,7 @@ em{
     background-color:#3333;
     position: absolute;
     bottom:0;
+    align-items: left;
+    text-align: left;
+    justify-content: left;
 }
