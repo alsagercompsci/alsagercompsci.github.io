@@ -174,7 +174,7 @@ em{
     color: white;
     padding: 20px 0;
     text-align: center;
-    position: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
     display: flex;
