@@ -3,8 +3,10 @@ body {
     margin: 0;
     padding: 0;
     background-color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure body takes at least the full height of the viewport */
 }
-
 header {
     background-color: #333;
     color: white;
@@ -167,21 +169,57 @@ em{
 #project a:hover {
     text-decoration: underline;
 }
-#footer{
-    width: 100vw;
-    height: 3vh;
-    background-color:#3333;
+#footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
     position: relative;
-    bottom:0;
-    left:0;
-    align-items: left;
-    text-align: left;
-    justify-content: left;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
+
 #footer-logo {
-    height: 5vw
-    margin-right: 1vw; 
+    height: 50px;
+    width: auto;
+    margin-bottom: 10px;
 }
+
+#footer p {
+    margin: 0;
+    font-size: 14px;
+    color: #ccc;
+}
+#footer2 {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#footer-logo {
+    height: 50px;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+#footer2 p {
+    margin: 0;
+    font-size: 14px;
+    color: #ccc;
+}
+
 #about2{
     width:100vw;
     height: 160vh;
