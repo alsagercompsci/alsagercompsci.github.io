@@ -62,7 +62,6 @@ em{
     height: 5vh;
     width: auto;
     position: absolute;
-    margin-top: 5vh;
     left: 0;
 }
 
@@ -229,4 +228,7 @@ em{
     padding-left:2vw;
     top:0;
     left:0;
+}
+#about img{
+    margin-top: 5vh;
 }
