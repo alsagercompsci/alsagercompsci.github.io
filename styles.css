@@ -167,10 +167,10 @@ em{
 #project a:hover {
     text-decoration: underline;
 }
-footer{
+#footer{
     width: 100vw;
     height: 80px;
     background-color:#3333;
     display:block;
-    top:0;
+    bottom:0;
 }
