@@ -170,8 +170,8 @@ em{
 #footer{
     width: 100vw;
     height: 3vh;
-    background-color:#0000FF;
-    position: absolute;
+    background-color:#3333;
+    position: relative;
     bottom:0;
     left:0;
     align-items: left;
@@ -180,7 +180,8 @@ em{
 }
 #about2{
     width:100vw;
-    background-color:white;
+    height: 160vh;
+    background-color:#3333;
     padding-top:2vh;
     padding-left:2vw;
     top:0;
