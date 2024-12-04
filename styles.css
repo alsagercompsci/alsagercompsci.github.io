@@ -141,15 +141,6 @@ em{
 #mobileabout {
     padding: 40px;
 }
-#about_alternative 
-{
-    width: 100vw;
-    height: 95vh;
-    background-color:#333;
-    position: absolute;
-    padding-left: 3vh;
-    padding-top: 1vh;
-}
 #project {
     display: flex;
     align-items: center;
@@ -225,7 +216,7 @@ em{
     background-color:#3333;
     padding-top:2vh;
     padding-left:2vw;
-    top:0;
+    top:5vh;
     left:0;
     position: absolute;
 }
