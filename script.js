@@ -18,7 +18,9 @@ document.querySelector('#about_alternative img[src="images/github.png"]').addEve
 });
 
 const toggleSwitch = document.getElementById('theme-toggle');
+
+toggle_theme = () => {
 toggleSwitch.addEventListener('change', function() {
     document.body.classList.toggle('light-mode');
 });
-
+}
