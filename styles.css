@@ -178,6 +178,10 @@ em{
     text-align: left;
     justify-content: left;
 }
+#footer-logo {
+    height: 2vh; 
+    margin-right: 1vw; 
+}
 #about2{
     width:100vw;
     height: 160vh;
