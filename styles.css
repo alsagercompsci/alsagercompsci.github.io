@@ -166,7 +166,7 @@ em{
     color: white;
     text-align: center;
     padding: 20px 0;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     display: flex;
@@ -186,11 +186,12 @@ em{
     color: #ccc;
 }
 #footer2 {
-    background-color: #333;
+    background-color: #007BFF;
+    /*background-color: #333;*/
     color: white;
     padding: 20px 0;
     text-align: center;
-    position: sticky;
+    position: fixed;
     bottom: 0;
     width: 100%;
     display: flex;
