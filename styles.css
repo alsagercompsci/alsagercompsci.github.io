@@ -169,13 +169,11 @@ em{
     color: white;
     text-align: center;
     padding: 20px 0;
-    position: fixed;
     bottom: 0;
     width: 100%;
-    display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: auto;
+    top: 100vh;
 }
 
 #footer-logo {
@@ -195,13 +193,10 @@ em{
     color: white;
     padding: 20px 0;
     text-align: center;
-    position: fixed;
-    bottom: 0;
     width: 100%;
-    display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: auto;
+    top: 100vh;
 }
 
 #footer-logo {
