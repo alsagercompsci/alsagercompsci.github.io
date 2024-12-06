@@ -197,6 +197,7 @@ em{
     justify-content: center;
     align-items: center;
     top: 90vh;
+    margin-top: auto;
 }
 
 #footer-logo {
