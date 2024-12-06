@@ -91,18 +91,6 @@ em{
     margin-left: 1vw;
 }
 
-#about {
-    width: 100vw;
-    min-height: 95%;
-    max-height: 95%;
-    margin: 0 auto;
-    position: relative;
-    top: 5vh;
-    left: 0;
-    background-color: blue;
-    align-items: center;
-    justify-content: center;
-}
 #projects_bar {
     width: 60vw;
     height: 10vh;
@@ -161,8 +149,7 @@ em{
     text-decoration: underline;
 }
 #footer {
-    /*background-color: #333;*/
-    background-color: #007BFF;
+    background-color: #333;
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -186,8 +173,7 @@ em{
     color: #ccc;
 }
 #footer2 {
-    background-color: #007BFF;
-    /*background-color: #333;*/
+    background-color: #333;
     color: white;
     padding: 50px 0;
     text-align: center;
@@ -213,7 +199,7 @@ em{
 
 #about{
     width: 100vw;
-    height: 95vh;
+    height: auto;
     margin: 0 auto;
     position: relative;
     top: 0;
