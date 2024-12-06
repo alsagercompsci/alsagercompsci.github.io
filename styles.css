@@ -189,15 +189,14 @@ em{
     background-color: #007BFF;
     /*background-color: #333;*/
     color: white;
-    padding: 20px 0;
+    padding: 50px 0;
     text-align: center;
     width: 100%;
-    position: fixed;
-    height: 10vh;
+    position: static;
+    height: 10%;
     justify-content: center;
     align-items: center;
     bottom:0;
-    margin-top: auto;
 }
 
 #footer-logo {
