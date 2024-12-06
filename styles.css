@@ -175,6 +175,7 @@ em{
     align-items: center;
     bottom: 0;
     position: absolute;
+    z-index: 2;
 }
 
 #footer-logo {
