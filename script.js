@@ -13,5 +13,3 @@ document.querySelector('#about img[src="images/cs50p.png"]').addEventListener('c
 document.querySelector('#about img[src="images/highseas.png"]').addEventListener('click', function() {
     window.location.href = 'https://hackclub.com/';
 });
-
-
