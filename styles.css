@@ -128,6 +128,12 @@ em{
 }
 #mobileabout {
     padding: 40px;
+    background-color: #333;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: auto;
 }
 #project {
     display: flex;
@@ -151,30 +157,6 @@ em{
 #footer {
     background-color: #333;
     color: white;
-    text-align: center;
-    padding: 20px 0;
-    width: 100%;
-    height: 10vh;
-    justify-content: center;
-    bottom: 0;
-    position: absolute;
-    z-index: 2;
-}
-
-#footer-logo {
-    height: 50px;
-    width: auto;
-    margin-bottom: 10px;
-}
-
-#footer p {
-    margin: 0;
-    font-size: 14px;
-    color: #ccc;
-}
-#footer2 {
-    background-color: #333;
-    color: white;
     padding: 50px 0;
     text-align: center;
     width: 100%;
@@ -191,7 +173,7 @@ em{
     margin-bottom: 10px;
 }
 
-#footer2 p {
+#footer p {
     margin: 0;
     font-size: 14px;
     color: #ccc;
