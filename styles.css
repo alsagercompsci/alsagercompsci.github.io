@@ -135,6 +135,9 @@ em{
     width: 100vw;
     height: auto;
 }
+#mobileabout h1, #mobileabout h2, #mobileabout h3, #mobileabout h4, #mobileabout p{
+    font-size: 2em;
+}
 #project {
     display: flex;
     align-items: center;
