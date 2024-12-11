@@ -79,6 +79,7 @@ em{
     background-color: #333;
     align-items: center;
     justify-content: center;
+    margin: 2vh;
 }
 
 #join h1, #join h2, #join h3, #join h4, #join p{
